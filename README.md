@@ -11,9 +11,9 @@
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/dev-aniketj/Calculator-app/blob/master/SS/video1.gif" height="500"/>
-	<img src="https://github.com/dev-aniketj/Calculator-app/blob/master/SS/image1.jpg" height="500"/>
-	<img src="https://github.com/dev-aniketj/Calculator-app/blob/master/SS/image2.jpg" height="500"/>
+	<img src="https://github.com/MuhammadAhmad120/CalculatorApp-Android/blob/main/SS/video1.gif" height="500"/>
+	<img src="https://github.com/MuhammadAhmad120/CalculatorApp-Android/blob/main/SS/image1.jpg" height="500"/>
+	<img src="https://github.com/MuhammadAhmad120/CalculatorApp-Android/blob/main/SS/image2.jpg.jpg" height="500"/>
 </p>
 
 
